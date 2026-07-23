@@ -171,7 +171,7 @@ A sensitivity model was trained without `PageValues`:
 
 | Model | ROC-AUC | PR-AUC | Precision | Recall | F1 |
 |---|---:|---:|---:|---:|---:|
-| All features | 0.9276 | 0.7393 | 0.6833 | 0.440 | 0.6631 |
+| All features | 0.9276 | 0.7393 | 0.6833 | 0.6440 | 0.6631 |
 | Without `PageValues` | 0.7827 | 0.3729 | 0.3120 | 0.6649 | 0.4247 |
 
 ![](outputs/figures/14_pagevalues_sensitivity.png)
